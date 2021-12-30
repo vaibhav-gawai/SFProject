@@ -1,3 +1,3 @@
-'Fixed the bug1'
-
-Chnage for WI4 by teammate for reabse with conflict
+1. Fixed the bug1
+2. Chnage for WI4 by teammate for reabse with conflict
+3. Change for rebase on CR2

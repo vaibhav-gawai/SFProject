@@ -1,11 +1,13 @@
 This is a file.
 
-Change - Added for login.
+Change 1- Added for login.
 Added something
-Change - Done by teammate for WI3.
-Change : Added for login.
-Chnage for bug2
+Change 2- Done by teammate for WI3.
+Change 3: Added for login.
+Chnage 4 for bug2
 
-Chnage for stash test  for WI5 in progress.
+Chnage 5 for stash test  for WI5 in progress.
 
-Change : For WI6 on local master to test normal.
+Change 6: For WI6 on local master to test normal.
+
+Change7: Added by teammate for bug3 

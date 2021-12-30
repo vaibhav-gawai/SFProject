@@ -8,6 +8,9 @@ Chnage 4 for bug2
 
 Chnage 5 for stash test  for WI5 in progress.
 
+
 Change 6: For WI6 on local master to test normal.
 
 Change7: Added by teammate for bug3 
+
+Change 8:- on local master for WI7.
